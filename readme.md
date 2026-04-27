@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=650&lines=CEO+of+Tarak+Program;Building+Cool+Tools;Javascript+Developer;FullStack+Developer;Create+Website;Logic+Focus;Always+Learning...">
+</p>
 
 <!-- 👤 PROFILE IMAGE -->
 <p align="center">
