@@ -28,8 +28,9 @@
 - 👑 CEO & Creator of <b>Tarak Program</b>  
 - ⚡ I build tools using <b>JavaScript</b>  
 - 🔐 Learning Ethical Hacking
+
+  <a href="https://taraknath341.github.io">
     <br>
-  <a href="#">
     <img src="https://img.shields.io/badge/👤-Portfolio-orange?style=for-the-badge" width="300">
   </a>
 <h2>Tarak Program</h2>
