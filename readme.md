@@ -31,7 +31,7 @@
 
 <a href="https://taraknath341.github.io">
   <br>
-  <img src="https://img.shields.io/badge/👤-Portfolio-orange?style=for-the-badge" width="300">
+  <img src="https://img.shields.io/badge/🦄-Portfolio-orange?style=for-the-badge" width="250">
 </a>
 <h2>Tarak Program</h2>
 
@@ -39,12 +39,7 @@
   <a href="https://tarakpro.netlify.app">
     <img src="./img/com-ads.jpg" height="300";>
   </a>
-</p>
-
-<!-- <p align="center">
-  <img src="./gif/giphy.gif" width="45%">    
-  <img src="./gif/typing-keyboard.gif" width="45%">
-</p> -->
+</p
 
 <h2>Skills</h2>
 
@@ -88,7 +83,6 @@
 </a>
 
 </p>
-
 
 <h2>GitHub Stats</h2>
 
