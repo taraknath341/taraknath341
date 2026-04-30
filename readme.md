@@ -39,7 +39,7 @@
   <a href="https://tarakpro.netlify.app">
     <img src="./img/com-ads.jpg" height="300";>
   </a>
-</p
+</p>
 
 <h2>Skills</h2>
 
@@ -51,7 +51,6 @@
 </p>
 
 <h2>Links</h2>
-
 <p align="center">
 
 <a href="https://tarakpro.netlify.app">
