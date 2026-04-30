@@ -27,8 +27,11 @@
 - 🎂 Birth: <b>21-May-2009</b>  
 - 👑 CEO & Creator of <b>Tarak Program</b>  
 - ⚡ I build tools using <b>JavaScript</b>  
-- 🔐 Learning Ethical Hacking  
-
+- 🔐 Learning Ethical Hacking
+    <br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/👤-Portfolio-orange?style=for-the-badge" width="300">
+  </a>
 <h2>Tarak Program</h2>
 
 <p align="center">
