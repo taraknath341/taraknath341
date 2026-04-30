@@ -37,12 +37,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#">
-    <img src="./gif/giphy.gif" width="45%">
-    <img src="./gif/typing-keyboard.gif" width="45%">
-  </a>
-</p>
+<!-- <p align="center">
+  <img src="./gif/giphy.gif" width="45%">    
+  <img src="./gif/typing-keyboard.gif" width="45%">
+</p> -->
 
 <h2>Skills</h2>
 
