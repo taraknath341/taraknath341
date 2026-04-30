@@ -16,6 +16,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/👑_CEO-Tarak_Program-darkgreen?style=for-the-badge">
     <img src="https://img.shields.io/badge/⚡_Creator-Tarak_Program-orange?style=for-the-badge">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=taraknath341&label=👁️‍🗨️+PROFILE+VIEWS&color=red&style=for-the-badge">
   </a>
 </p>
 
