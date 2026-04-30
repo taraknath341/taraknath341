@@ -77,10 +77,6 @@
   <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge">
 </a>
 
-<a href="tel:9800457290">
-  <img src="https://img.shields.io/badge/Phone-pink?style=for-the-badge">
-</a>
-
 </p>
 
 <h2>GitHub Stats</h2>
