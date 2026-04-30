@@ -29,10 +29,10 @@
 - ⚡ I build tools using <b>JavaScript</b>  
 - 🔐 Learning Ethical Hacking
 
-  <a href="https://taraknath341.github.io">
-    <br>
-    <img src="https://img.shields.io/badge/👤-Portfolio-orange?style=for-the-badge" width="300">
-  </a>
+<a href="https://taraknath341.github.io">
+  <br>
+  <img src="https://img.shields.io/badge/👤-Portfolio-orange?style=for-the-badge" width="300">
+</a>
 <h2>Tarak Program</h2>
 
 <p align="center">
