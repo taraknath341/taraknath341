@@ -47,7 +47,7 @@
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs">
-    <img src="https://skillicons.dev/icons?i=mongodb,linux,git,github,vscode">
+    <img src="https://skillicons.dev/icons?i=mongodb,linux,git,github,svelte">
   </a>
 </p>
 
